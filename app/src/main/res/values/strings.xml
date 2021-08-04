@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Mat Helper</string>
+    <string name="decimal">Decimal</string>
+    <string name="binario">Binario</string>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
 </resources>
