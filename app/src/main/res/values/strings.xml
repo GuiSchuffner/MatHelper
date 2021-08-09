@@ -4,4 +4,7 @@
     <string name="binario">Binario</string>
     <string name="_0">0</string>
     <string name="_1">1</string>
+    <string name="bin">BIN</string>
+    <string name="hex">HEX</string>
+    <string name="dec">DEC</string>
 </resources>
